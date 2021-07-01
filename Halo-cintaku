@@ -1,0 +1,17 @@
+const CONFIG = {
+    introTitle: 'Halo cintakuuu!',
+    introDesc: 'I made this only for you
+    It's just for fun, hope u like it`,
+    btnIntro: 'ok linhh',
+    title: 'do you like me(人 •͈ᴗ•͈)',
+    desc: 'if you exit, you will be killed by kicil(´｡• ᵕ •｡`)  ',
+    btnYes: 'i love you bae<33',
+    btnNo: 'nope, it's silly:3',
+    question:'(ʘᴗʘ✿) thank you. Why u love me<3',
+    btnReply: 'send it to me<3',
+    reply: 'becuz u so cute bae <33333333',
+    mess: 'FBI OPEN THE DOOR haha(≧▽≦)',
+    messDesc: 'please play games and chat with me more ;-; 
+    otherwise i will miss you .',
+    btnAccept: 'Ok my lovee <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100037647432203 ' 
