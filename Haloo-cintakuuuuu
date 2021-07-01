@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'nope, it's really silly :3',
     question:'Why u like me?? (・∀・)<3',
     btnReply: 'send this to me <3',
-    reply: ' becuz you so cute <33333333',
+    reply: 'becuz you so cute <33333333',
     mess: 'FBI! OPEN THE DOOR haha',
     messDesc: 'please play games and chat with me more ;-; otherwise i will miss you .',
     btnAccept: 'Okiiii my love <3',
